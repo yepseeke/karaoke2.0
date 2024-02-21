@@ -1,0 +1,746 @@
+[
+  {
+    "singer": "A-Dessa",
+    "song": "Фая, нет Вай-Фая",
+    "language": "russian",
+    "id": 1
+  },
+  {
+    "singer": "Arash",
+    "song": "Восточные сказки",
+    "language": "russian",
+    "id": 2
+  },
+  {
+    "singer": "Cream Soda",
+    "song": "Плачу на техно",
+    "language": "russian",
+    "id": 3
+  },
+  {
+    "singer": "Cream Soda",
+    "song": "Сердце лед",
+    "language": "russian",
+    "id": 4
+  },
+  {
+    "singer": "Dan Balan",
+    "song": "Лепестками слез",
+    "language": "russian",
+    "id": 5
+  },
+  {
+    "singer": "IOWA",
+    "song": "Бьёт Бит",
+    "language": "russian",
+    "id": 6
+  },
+  {
+    "singer": "IOWA",
+    "song": "Маршрутка",
+    "language": "russian",
+    "id": 7
+  },
+  {
+    "singer": "IOWA",
+    "song": "Потанцуй со мной",
+    "language": "russian",
+    "id": 8
+  },
+  {
+    "singer": "MC Doni",
+    "song": "Джин",
+    "language": "russian",
+    "id": 9
+  },
+  {
+    "singer": "Mr.Credo",
+    "song": "Медляк",
+    "language": "russian",
+    "id": 10
+  },
+  {
+    "singer": "Niletto",
+    "song": "Краш",
+    "language": "russian",
+    "id": 11
+  },
+  {
+    "singer": "Niletto",
+    "song": "Любимка",
+    "language": "russian",
+    "id": 12
+  },
+  {
+    "singer": "Quest Pistols",
+    "song": "Белая Стрекоза Любви",
+    "language": "russian",
+    "id": 13
+  },
+  {
+    "singer": "Quest Pistols",
+    "song": "Санта Лючия",
+    "language": "russian",
+    "id": 14
+  },
+  {
+    "singer": "Quest Pistols",
+    "song": "Я твой наркотик",
+    "language": "russian",
+    "id": 15
+  },
+  {
+    "singer": "Quest Pistols",
+    "song": "Я устал, хочу любви",
+    "language": "russian",
+    "id": 16
+  },
+  {
+    "singer": "Алла Пугачёва",
+    "song": "Мадам Брошкина",
+    "language": "russian",
+    "id": 17
+  },
+  {
+    "singer": "Алла Пугачёва",
+    "song": "Миллион алых роз",
+    "language": "russian",
+    "id": 18
+  },
+  {
+    "singer": "Алла Пугачёва",
+    "song": "Позови меня с собой",
+    "language": "russian",
+    "id": 19
+  },
+  {
+    "singer": "Алла Пугачёва",
+    "song": "Этот мир",
+    "language": "russian",
+    "id": 20
+  },
+  {
+    "singer": "Анжелика Варум",
+    "song": "Все в твоих руках",
+    "language": "russian",
+    "id": 21
+  },
+  {
+    "singer": "Анжелика Варум",
+    "song": "Королева",
+    "language": "russian",
+    "id": 22
+  },
+  {
+    "singer": "Арсен Петросов",
+    "song": "Кайфуем",
+    "language": "russian",
+    "id": 23
+  },
+  {
+    "singer": "Баста",
+    "song": "Сансара",
+    "language": "russian",
+    "id": 24
+  },
+  {
+    "singer": "Блестящие",
+    "song": "Восточные сказки",
+    "language": "russian",
+    "id": 2
+  },
+  {
+    "singer": "Браво",
+    "song": "Любите девушки",
+    "language": "russian",
+    "id": 25
+  },
+  {
+    "singer": "Буланова",
+    "song": "Ясный мой свет",
+    "language": "russian",
+    "id": 26
+  },
+  {
+    "singer": "Бумбокс",
+    "song": "Вахтерам",
+    "language": "russian",
+    "id": 27
+  },
+  {
+    "singer": "Бумбокс",
+    "song": "TNT",
+    "language": "russian",
+    "id": 28
+  },
+  {
+    "singer": "Бутырка",
+    "song": "Я душу к небу отпущу",
+    "language": "russian",
+    "id": 29
+  },
+  {
+    "singer": "Верасы",
+    "song": "Малиновка",
+    "language": "russian",
+    "id": 30
+  },
+  {
+    "singer": "Вера Брежнева",
+    "song": "Лепестками слез",
+    "language": "russian",
+    "id": 5
+  },
+  {
+    "singer": "Виктор Цой (Кино)",
+    "song": "Видели ночь",
+    "language": "russian",
+    "id": 31
+  },
+  {
+    "singer": "Виктор Цой (Кино)",
+    "song": "Группа крови",
+    "language": "russian",
+    "id": 32
+  },
+  {
+    "singer": "Виктор Цой (Кино)",
+    "song": "Звезда по имени Солнце",
+    "language": "russian",
+    "id": 33
+  },
+  {
+    "singer": "Виктор Цой (Кино)",
+    "song": "Кончится лето",
+    "language": "russian",
+    "id": 34
+  },
+  {
+    "singer": "Виктор Цой (Кино)",
+    "song": "Кукушка",
+    "language": "russian",
+    "id": 35
+  },
+  {
+    "singer": "Виктор Цой (Кино)",
+    "song": "Пачка сигарет",
+    "language": "russian",
+    "id": 36
+  },
+  {
+    "singer": "Виктор Цой (Кино)",
+    "song": "Следи за собой",
+    "language": "russian",
+    "id": 37
+  },
+  {
+    "singer": "Винтаж",
+    "song": "Ева",
+    "language": "russian",
+    "id": 38
+  },
+  {
+    "singer": "Владимир Пресняков",
+    "song": "Аэропорты",
+    "language": "russian",
+    "id": 39
+  },
+  {
+    "singer": "Время и Стекло",
+    "song": "Имя 505",
+    "language": "russian",
+    "id": 40
+  },
+  {
+    "singer": "Вячеслав Бутусов",
+    "song": "Гудбай Америка",
+    "language": "russian",
+    "id": 41
+  },
+  {
+    "singer": "Губин",
+    "song": "Девушки как звезды",
+    "language": "russian",
+    "id": 42
+  },
+  {
+    "singer": "Губин",
+    "song": "Лиза",
+    "language": "russian",
+    "id": 43
+  },
+  {
+    "singer": "Губин",
+    "song": "Мальчик бродяга",
+    "language": "russian",
+    "id": 44
+  },
+  {
+    "singer": "Губин",
+    "song": "Милая моя далеко",
+    "language": "russian",
+    "id": 45
+  },
+  {
+    "singer": "Губин",
+    "song": "Ночь",
+    "language": "russian",
+    "id": 46
+  },
+  {
+    "singer": "Губин",
+    "song": "Птица",
+    "language": "russian",
+    "id": 47
+  },
+  {
+    "singer": "Денис Майданов",
+    "song": "Время наркотик",
+    "language": "russian",
+    "id": 48
+  },
+  {
+    "singer": "Дора (Дарья Шиханова)",
+    "song": "Втюрилась",
+    "language": "russian",
+    "id": 49
+  },
+  {
+    "singer": "Дора (Дарья Шиханова)",
+    "song": "Дорадура",
+    "language": "russian",
+    "id": 50
+  },
+  {
+    "singer": "Дора (Дарья Шиханова)",
+    "song": "Младшая сестра",
+    "language": "russian",
+    "id": 51
+  },
+  {
+    "singer": "Жанна Агузарова",
+    "song": "Ленинградский рокнролл",
+    "language": "russian",
+    "id": 52
+  },
+  {
+    "singer": "Жуки",
+    "song": "Батарейка",
+    "language": "russian",
+    "id": 53
+  },
+  {
+    "singer": "Земляне",
+    "song": "Поверь в мечту",
+    "language": "russian",
+    "id": 54
+  },
+  {
+    "singer": "Иван Дорн",
+    "song": "Северное сияние",
+    "language": "russian",
+    "id": 55
+  },
+  {
+    "singer": "Иван Дорн",
+    "song": "Стыцамэн",
+    "language": "russian",
+    "id": 56
+  },
+  {
+    "singer": "Клава Кока (Клавдия Высокова)",
+    "song": "Краш",
+    "language": "russian",
+    "id": 11
+  },
+  {
+    "singer": "Клава Кока (Клавдия Высокова)",
+    "song": "Покинула чат",
+    "language": "russian",
+    "id": 57
+  },
+  {
+    "singer": "Комбинация",
+    "song": "Американ бой",
+    "language": "russian",
+    "id": 58
+  },
+  {
+    "singer": "Комбинация",
+    "song": "Бухгалтер",
+    "language": "russian",
+    "id": 59
+  },
+  {
+    "singer": "Король и Шут (КиШ)",
+    "song": "Дурак и молния",
+    "language": "russian",
+    "id": 60
+  },
+  {
+    "singer": "Король и Шут (КиШ)",
+    "song": "Кукла колдуна",
+    "language": "russian",
+    "id": 61
+  },
+  {
+    "singer": "Король и Шут (КиШ)",
+    "song": "Прыгну со скалы",
+    "language": "russian",
+    "id": 62
+  },
+  {
+    "singer": "Король и Шут (КиШ)",
+    "song": "Ром",
+    "language": "russian",
+    "id": 63
+  },
+  {
+    "singer": "Крис Кельми",
+    "song": "Замыкая круг",
+    "language": "russian",
+    "id": 64
+  },
+  {
+    "singer": "Крис Кельми",
+    "song": "Ночное рандеву",
+    "language": "russian",
+    "id": 65
+  },
+  {
+    "singer": "Ласковый май",
+    "song": "Белые розы",
+    "language": "russian",
+    "id": 66
+  },
+  {
+    "singer": "Леонид Агутин",
+    "song": "Всё в твоих руках",
+    "language": "russian",
+    "id": 21
+  },
+  {
+    "singer": "Леонид Агутин",
+    "song": "Королева",
+    "language": "russian",
+    "id": 22
+  },
+  {
+    "singer": "Леонид Агутин",
+    "song": "Аэропорты",
+    "language": "russian",
+    "id": 39
+  },
+  {
+    "singer": "Леонид Агутин",
+    "song": "Граница",
+    "language": "russian",
+    "id": 67
+  },
+  {
+    "singer": "Леонид Агутин",
+    "song": "У моря у синего моря",
+    "language": "russian",
+    "id": 68
+  },
+  {
+    "singer": "Леонид Агутин",
+    "song": "Хоп-хэй",
+    "language": "russian",
+    "id": 69
+  },
+  {
+    "singer": "Лобода",
+    "song": "Мой",
+    "language": "russian",
+    "id": 70
+  },
+  {
+    "singer": "ЛСП",
+    "song": "Безумие",
+    "language": "russian",
+    "id": 71
+  },
+  {
+    "singer": "ЛСП",
+    "song": "Монетка",
+    "language": "russian",
+    "id": 72
+  },
+  {
+    "singer": "Максим",
+    "song": "Ветром стать",
+    "language": "russian",
+    "id": 73
+  },
+  {
+    "singer": "Максим",
+    "song": "Знаешь ли ты",
+    "language": "russian",
+    "id": 74
+  },
+  {
+    "singer": "Максим",
+    "song": "Мой рай",
+    "language": "russian",
+    "id": 75
+  },
+  {
+    "singer": "Михаил Боярский",
+    "song": "Зеленоглазое такси",
+    "language": "russian",
+    "id": 76
+  },
+  {
+    "singer": "Михаил Боярский",
+    "song": "Медведица",
+    "language": "russian",
+    "id": 77
+  },
+  {
+    "singer": "Михаил Боярский",
+    "song": "Спасибо родная",
+    "language": "russian",
+    "id": 78
+  },
+  {
+    "singer": "Morgenshtern",
+    "song": "Caddilac",
+    "language": "russian",
+    "id": 79
+  },
+  {
+    "singer": "Нэнси",
+    "song": "Дым сигарет с ментолом",
+    "language": "russian",
+    "id": 80
+  },
+  {
+    "singer": "Нэнси",
+    "song": "Чистый лист",
+    "language": "russian",
+    "id": 81
+  },
+  {
+    "singer": "Отпетые Мошенники",
+    "song": "Граница",
+    "language": "russian",
+    "id": 67
+  },
+  {
+    "singer": "Ранетки",
+    "song": "Зима",
+    "language": "russian",
+    "id": 82
+  },
+  {
+    "singer": "Ранетки",
+    "song": "Мы ранетки",
+    "language": "russian",
+    "id": 83
+  },
+  {
+    "singer": "Ранетки",
+    "song": "О тебе",
+    "language": "russian",
+    "id": 84
+  },
+  {
+    "singer": "Сектор Газа",
+    "song": "Демобилизация",
+    "language": "russian",
+    "id": 85
+  },
+  {
+    "singer": "Сектор Газа",
+    "song": "Лирика",
+    "language": "russian",
+    "id": 86
+  },
+  {
+    "singer": "Сектор Газа",
+    "song": "Туман",
+    "language": "russian",
+    "id": 87
+  },
+  {
+    "singer": "Серебро (Serebro)",
+    "song": "Мало тебя",
+    "language": "russian",
+    "id": 88
+  },
+  {
+    "singer": "Серебро (Serebro)",
+    "song": "Между нами любовь",
+    "language": "russian",
+    "id": 89
+  },
+  {
+    "singer": "Тима Белорусских",
+    "song": "Мокрые кроссы",
+    "language": "russian",
+    "id": 90
+  },
+  {
+    "singer": "Тима Белорусских",
+    "song": "Незабудка",
+    "language": "russian",
+    "id": 91
+  },
+  {
+    "singer": "Фабрика",
+    "song": "Зажигай",
+    "language": "russian",
+    "id": 92
+  },
+  {
+    "singer": "Хлеб",
+    "song": "Плачу на техно",
+    "language": "russian",
+    "id": 3
+  },
+  {
+    "singer": "Stromae",
+    "song": "Papaoutai",
+    "language": "french",
+    "id": 93
+  },
+  {
+    "singer": "Kazka (Казка)",
+    "song": "Плакала",
+    "language": "ukrainian",
+    "id": 94
+  },
+  {
+    "singer": "The Hardkiss",
+    "song": "Прірва",
+    "language": "ukrainian",
+    "id": 95
+  },
+  {
+    "singer": "Ирина Билык",
+    "song": "Мовчати",
+    "language": "ukrainian",
+    "id": 96
+  },
+  {
+    "singer": "Кузьма Скрябин(Скрябін)",
+    "song": "Мовчати",
+    "language": "ukrainian",
+    "id": 96
+  },
+  {
+    "singer": "Кузьма Скрябин(Скрябін)",
+    "song": "Любити платити",
+    "language": "ukrainian",
+    "id": 97
+  },
+  {
+    "singer": "Кузьма Скрябин(Скрябін)",
+    "song": "Старі фотографії",
+    "language": "ukrainian",
+    "id": 98
+  },
+  {
+    "singer": "Океан Эльзы",
+    "song": "І я на небі",
+    "language": "ukrainian",
+    "id": 99
+  },
+  {
+    "singer": "Океан Эльзы",
+    "song": "Вставай",
+    "language": "ukrainian",
+    "id": 100
+  },
+  {
+    "singer": "Океан Эльзы",
+    "song": "Кішка",
+    "language": "ukrainian",
+    "id": 101
+  },
+  {
+    "singer": "Океан Эльзы",
+    "song": "Майже весна",
+    "language": "ukrainian",
+    "id": 102
+  },
+  {
+    "singer": "Океан Эльзы",
+    "song": "Обiйми мене",
+    "language": "ukrainian",
+    "id": 103
+  },
+  {
+    "singer": "Океан Эльзы",
+    "song": "Рандеву",
+    "language": "ukrainian",
+    "id": 104
+  },
+  {
+    "singer": "Океан Эльзы",
+    "song": "Стрiляй",
+    "language": "ukrainian",
+    "id": 105
+  },
+  {
+    "singer": "Океан Эльзы",
+    "song": "Я так хочу до тебе",
+    "language": "ukrainian",
+    "id": 106
+  },
+  {
+    "singer": "Beyonce",
+    "song": "Halo",
+    "language": "english",
+    "id": 107
+  },
+  {
+    "singer": "Eagles",
+    "song": "Hotel California",
+    "language": "english",
+    "id": 108
+  },
+  {
+    "singer": "Elton John",
+    "song": "Sorry Seems To Be The Hardest Word",
+    "language": "english",
+    "id": 109
+  },
+  {
+    "singer": "Madcon (Мадкон)",
+    "song": "Beggin",
+    "language": "english",
+    "id": 110
+  },
+  {
+    "singer": "Madonna",
+    "song": "La Isla Bonita",
+    "language": "english",
+    "id": 111
+  },
+  {
+    "singer": "Michael Jackson",
+    "song": "You are not alone",
+    "language": "english",
+    "id": 112
+  },
+  {
+    "singer": "PSY",
+    "song": "Daddy",
+    "language": "english",
+    "id": 113
+  },
+  {
+    "singer": "The Hardkiss",
+    "song": "Make Up",
+    "language": "english",
+    "id": 114
+  },
+  {
+    "singer": "Whitney Houston",
+    "song": "I Will Always Love You",
+    "language": "english",
+    "id": 115
+  }
+]
